@@ -11,7 +11,6 @@ def selection(num)
  
   end
 
-end
 
 
 def runner
