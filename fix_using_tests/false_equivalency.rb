@@ -3,6 +3,7 @@ require 'pry'
 def get_user_input
   gets.chomp
 end
+end
 
 def prompt_user
   puts "What would you like to do?"
@@ -20,5 +21,4 @@ end
 def runner
   prompt_user
   selection(get_user_input)
-end
 end
