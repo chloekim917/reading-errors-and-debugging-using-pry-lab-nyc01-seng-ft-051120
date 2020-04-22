@@ -19,6 +19,6 @@ end
 
 def runner
   prompt_user
-end
   selection(get_user_input)
+end
 end
